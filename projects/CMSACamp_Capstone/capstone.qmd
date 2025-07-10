@@ -1,0 +1,16 @@
+---
+title: "Carnegie Mellon Undergraduate Research: Capstone Project"
+description: "Quantifying effort for NFL running backs"
+date: July 2025
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/eshteynberg/Football-Effort
+      target: blanks
+---
+
+This is the capstone project.

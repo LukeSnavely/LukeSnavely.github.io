@@ -1,0 +1,38 @@
+project:
+  type: website
+  resources: assets
+
+website:
+  title: "Luke Snavely"
+  navbar:
+    background: "#14234b"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/lukesnavely/
+        target: blank
+      - icon: github
+        href: https://github.com/LukeSnavely
+        target: blank
+      - icon: file-person
+        href: assets/LukeSnavely_Resume.pdf
+        target: blank
+      
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
+execute: 
+  freeze: auto
+

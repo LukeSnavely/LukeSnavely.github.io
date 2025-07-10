@@ -1,0 +1,20 @@
+---
+title: "Carnegie Mellon Undergraduate Research: EDA Project"
+description: "Analyzing passing characteristics of 2023 Women's World Cup soccer players"
+date: June 2025
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: github
+      text: "GitHub"
+      href: https://github.com/zachbtw/EDA-Project-Z-L
+      target: blank
+    - icon: easel3-fill
+      text: Presentation
+      href: projects/CMSACamp_EDA/ZachAndLuke_EDAProject.pdf
+      target: blank
+---
+
+This project focused on discovering passing insights for players and teams in the 2023 Women's World Cup.
