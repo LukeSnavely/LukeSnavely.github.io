@@ -16,11 +16,11 @@ about:
       href: https://www.linkedin.com/in/lukesnavely/
     - icon: file-person
       text: Resume
-      href: assets/LukeSnavely_Resume.pdf
+      href: assets/LukeSnavelyResume.pdf
 ---
 
-Welcome! My name is Luke Snavely, and I am a rising junior and presidential scholar at Robert Morris University, completing my undergrad in Statistics and Data Science. I am working towards my Masters in Data Science and a minor in Data Analytics.
+Hello! My name is Luke Snavely, and I am a rising junior and presidential scholar at Robert Morris University, completing my Bachelor's degree in Statistics and Data Science. I am working towards my Master's in Data Science and a minor in Data Analytics. I am set to graduate in the spring of 2027.
 
-I serve as the president of RMU's Sport Analytics Club, presenting on relevant sport analytical topics every month. Through this position, I attend and present at conferences, like the Carnegie Mellon Sports Analytics Conference, compete in hackathons, and develop my R coding skills.
+I serve as the president of RMU's Sport Analytics Club, presenting on relevant sport analytical topics every month. Through this position, I attend and present at conferences, like the Carnegie Mellon Sports Analytics Conference, compete in hackathons and other competitions, and develop my R coding skills.
 
-I also serve as the president of RMU's Men's Club Soccer team. Growing up near Pittsburgh and playing soccer and baseball, I am a huge sports fan! 
+I also serve as the president of RMU's Men's Club Soccer team. Growing up near Pittsburgh and playing soccer and baseball, I am a huge sports fan!

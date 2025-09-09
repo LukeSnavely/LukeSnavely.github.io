@@ -3,4 +3,5 @@ title: "Projects"
 listing:
   contents: projects # name of the folder
   type: default
+  sort: "date desc"
 ---

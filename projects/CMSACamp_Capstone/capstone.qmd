@@ -1,6 +1,6 @@
 ---
-title: "Carnegie Mellon Undergraduate Research: Capstone Project"
-description: "Quantifying effort for NFL running backs"
+title: "Tracking the Intangible: Quantifying Effort in NFL Running Backs"
+description: "Carnegie Mellon Undergraduate Research: Capstone Project"
 date: July 2025
 resources: "."
 about: 
@@ -11,6 +11,10 @@ about:
       text: "GitHub"
       href: https://github.com/eshteynberg/Football-Effort
       target: blanks
+    - icon: "file-bar-graph"
+      text: "Report"
+      href: https://eshteynberg.github.io/Football-Effort/report/
+      target: blanks
 ---
 
-This is the capstone project.
+The saying "giving your '100%'" is quite common, but what does that exactly mean? This project attempted to quantify this effort for NFL running backs. For each running back and utilizing Big Data Bowl tracking data, we graphed acceleration-speed (A-S) profiles. Using quantitative generalized additive modeling (QGAM), we found the highest percentiles of acceleration for each given speed. Effort is then defined by how often and close a player comes to this threshold. Analysis found that backup running backs typically were towards the top of the ranking, perhaps due to them making the most of their limited opportunities. For more results and information, our report is attached!
