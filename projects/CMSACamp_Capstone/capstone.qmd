@@ -1,6 +1,6 @@
 ---
 title: "Tracking the Intangible: Quantifying Effort in NFL Running Backs"
-description: "Carnegie Mellon Undergraduate Research: Capstone Project"
+description: 'Carnegie Mellon Undergraduate Research: Capstone Project'
 date: July 2025
 resources: "."
 about: 
