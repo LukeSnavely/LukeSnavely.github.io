@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LukeSnavely.github.io/index.html</loc>
-    <lastmod>2025-07-10T15:14:49.015Z</lastmod>
+    <loc>https://LukeSnavely.github.io/projects.html</loc>
+    <lastmod>2025-09-09T01:46:40.424Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LukeSnavely.github.io/projects/OhioState2025/OhioState2025.html</loc>
+    <lastmod>2025-09-09T01:46:40.486Z</lastmod>
   </url>
   <url>
     <loc>https://LukeSnavely.github.io/projects/CMSACamp_Capstone/capstone.html</loc>
-    <lastmod>2025-07-10T15:20:36.560Z</lastmod>
+    <lastmod>2025-09-09T01:46:40.425Z</lastmod>
   </url>
   <url>
     <loc>https://LukeSnavely.github.io/projects/CMSACamp_EDA/eda.html</loc>
-    <lastmod>2025-07-10T15:14:49.038Z</lastmod>
+    <lastmod>2025-09-09T01:46:40.439Z</lastmod>
   </url>
   <url>
-    <loc>https://LukeSnavely.github.io/projects.html</loc>
-    <lastmod>2025-07-10T15:14:49.016Z</lastmod>
+    <loc>https://LukeSnavely.github.io/projects/CavsHackathon_2024/CavsHackathon2024.html</loc>
+    <lastmod>2025-09-09T01:46:40.439Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LukeSnavely.github.io/index.html</loc>
+    <lastmod>2025-09-09T01:46:40.424Z</lastmod>
   </url>
 </urlset>

@@ -1,30 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Luke Snavely",
-    "section": "",
-    "text": "Welcome! My name is Luke Snavely, and I am a rising junior and presidential scholar at Robert Morris University, completing my undergrad in Statistics and Data Science. I am working towards my Masters in Data Science and a minor in Data Analytics.\nI serve as the president of RMU’s Sport Analytics Club, presenting on relevant sport analytical topics every month. Through this position, I attend and present at conferences, like the Carnegie Mellon Sports Analytics Conference, compete in hackathons, and develop my R coding skills.\nI also serve as the president of RMU’s Men’s Club Soccer team. Growing up near Pittsburgh and playing soccer and baseball, I am a huge sports fan!"
-  },
-  {
-    "objectID": "projects/CMSACamp_Capstone/capstone.html",
-    "href": "projects/CMSACamp_Capstone/capstone.html",
-    "title": "Carnegie Mellon Undergraduate Research: Capstone Project",
-    "section": "",
-    "text": "This is the capstone project."
-  },
-  {
-    "objectID": "projects/CMSACamp_EDA/eda.html",
-    "href": "projects/CMSACamp_EDA/eda.html",
-    "title": "Carnegie Mellon Undergraduate Research: EDA Project",
-    "section": "",
-    "text": "This project focused on discovering passing insights for players and teams in the 2023 Women’s World Cup."
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Carnegie Mellon Undergraduate Research: Capstone Project\n\n\n\n\n\nQuantifying effort for NFL running backs\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCarnegie Mellon Undergraduate Research: EDA Project\n\n\n\n\n\nAnalyzing passing characteristics of 2023 Women’s World Cup soccer players\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Tracking the Intangible: Quantifying Effort in NFL Running Backs\n\n\nCarnegie Mellon Undergraduate Research: Capstone Project\n\n\n\n\n\nJul 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing passing characteristics of 2023 Women’s World Cup soccer players\n\n\nCarnegie Mellon Undergraduate Research: EDA Project\n\n\n\n\n\nJun 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nClustering MLB hitters based off their two-strike approaches\n\n\nPresented at the 5th Annual Ohio State Sports Analytics Conference\n\n\n\n\n\nMar 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCleveland Cavaliers Hackathon 2024\n\n\nClustering Cavaliers’ fans based on their retail and food and beverage spending\n\n\n\n\n\nOct 1, 2024\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/OhioState2025/OhioState2025.html",
+    "href": "projects/OhioState2025/OhioState2025.html",
+    "title": "Clustering MLB hitters based off their two-strike approaches",
+    "section": "",
+    "text": "This project utilized k-means clustering to group MLB players by their two-strike approaches. MLB Savant released new bat tracking data for the 2024 season, like bat speed and swing length, which makes this project possible. It’s a common belief to take a two-strike approach (prioritizing contact and reducing bat speed) in baseball, but is this true in the MLB?\nFor clustering, I selected three variables: bat speed, two-strike xWOBA, and strikeout percentage. Using the elbow method, I found that 5 clusters was ideal. At the bottom of the poster, I also included median statistical measures for each cluster, adding in swing length and barrel percentage. Overall, the model segmented two-strike hitters into five groups: poor, power, contact, better contact, and average two-strike hitters. Pitchers can take this analysis and better plan when facing certain batters, based on their two-strike hitting abilities.\nI presented this project at the 5th Annual Ohio State Sports Analytics Conference and won the award for “Outstanding Sports Analytics for Professional Sports.” The poster is attached."
+  },
+  {
+    "objectID": "projects/CMSACamp_Capstone/capstone.html",
+    "href": "projects/CMSACamp_Capstone/capstone.html",
+    "title": "Tracking the Intangible: Quantifying Effort in NFL Running Backs",
+    "section": "",
+    "text": "The saying “giving your ‘100%’” is quite common, but what does that exactly mean? This project attempted to quantify this effort for NFL running backs. For each running back and utilizing Big Data Bowl tracking data, we graphed acceleration-speed (A-S) profiles. Using quantitative generalized additive modeling (QGAM), we found the highest percentiles of acceleration for each given speed. Effort is then defined by how often and close a player comes to this threshold. Analysis found that backup running backs typically were towards the top of the ranking, perhaps due to them making the most of their limited opportunities. For more results and information, our report is attached!"
+  },
+  {
+    "objectID": "projects/CMSACamp_EDA/eda.html",
+    "href": "projects/CMSACamp_EDA/eda.html",
+    "title": "Analyzing passing characteristics of 2023 Women’s World Cup soccer players",
+    "section": "",
+    "text": "This project focused on discovering passing insights for players and teams in the 2023 Women’s World Cup. It was also the first of two projects for the 2025 Carnegie Mellon Sports Analytics Camp (CMSACamp), where I conducted undergraduate research.\nInitial EDA found that passing completion rates tend to decrease towards the end of the game. This is most likely due to fatigue and “last-ditch” scoring efforts. Essentially, teams are more desperate to score at the end of the game and will force passes. We also took at look at Spain, the eventual winners of the Women’s World Cup, and how they fared against another country in their group, Costa Rica. EDA showed that Spain dominated in the passing game to advance to the knockout rounds, while Costa Rica struggled, especially against Spain.\nFinally, we performed k-means clustering to cluster players based off of their passing abilities. Utilizing the elbow method, we found 5 distinct clusters, as seen on our presentation. What may be surprising is that well-known USA winger Megan Rapinoe was clustered into the “poor” passing group. However, looking at her 2023 somewhat poor performance in the tournament justifies her placement. Feel free to look at our presentation for more results and the rest of our analysis!"
+  },
+  {
+    "objectID": "projects/CavsHackathon_2024/CavsHackathon2024.html",
+    "href": "projects/CavsHackathon_2024/CavsHackathon2024.html",
+    "title": "Cleveland Cavaliers Hackathon 2024",
+    "section": "",
+    "text": "The Cleveland Cavaliers challenged us to segment Cavaliers’ fans based on their food, beverage, and retail purchases. Utilizing hierarchical clustering and silhouette scores, we determined three distinct fan subsets, one of which we clustered again to provide a deeper analysis. In presenting our findings through the use of data visualizations, we provided valuable insights for the Cavaliers’ Front Office. We were awarded first place for our submission. For our results and analysis, please download or view the attached PowerPoint."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Luke Snavely",
+    "section": "",
+    "text": "Hello! My name is Luke Snavely, and I am a rising junior and presidential scholar at Robert Morris University, completing my Bachelor’s degree in Statistics and Data Science. I am working towards my Master’s in Data Science and a minor in Data Analytics. I am set to graduate in the spring of 2027.\nI serve as the president of RMU’s Sport Analytics Club, presenting on relevant sport analytical topics every month. Through this position, I attend and present at conferences, like the Carnegie Mellon Sports Analytics Conference, compete in hackathons and other competitions, and develop my R coding skills.\nI also serve as the president of RMU’s Men’s Club Soccer team. Growing up near Pittsburgh and playing soccer and baseball, I am a huge sports fan!"
   }
 ]

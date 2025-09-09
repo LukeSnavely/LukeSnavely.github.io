@@ -1,6 +1,6 @@
 ---
-title: "Carnegie Mellon Undergraduate Research: EDA Project"
-description: "Analyzing passing characteristics of 2023 Women's World Cup soccer players"
+title: "Analyzing passing characteristics of 2023 Women's World Cup soccer players"
+description: "Carnegie Mellon Undergraduate Research: EDA Project"
 date: June 2025
 resources: "."
 about: 
@@ -17,4 +17,8 @@ about:
       target: blank
 ---
 
-This project focused on discovering passing insights for players and teams in the 2023 Women's World Cup.
+This project focused on discovering passing insights for players and teams in the 2023 Women's World Cup. It was also the first of two projects for the 2025 Carnegie Mellon Sports Analytics Camp (CMSACamp), where I conducted undergraduate research. 
+
+Initial EDA found that passing completion rates tend to decrease towards the end of the game. This is most likely due to fatigue and "last-ditch" scoring efforts. Essentially, teams are more desperate to score at the end of the game and will force passes. We also took at look at Spain, the eventual winners of the Women's World Cup, and how they fared against another country in their group, Costa Rica. EDA showed that Spain dominated in the passing game to advance to the knockout rounds, while Costa Rica struggled, especially against Spain.
+
+Finally, we performed k-means clustering to cluster players based off of their passing abilities. Utilizing the elbow method, we found 5 distinct clusters, as seen on our presentation. What may be surprising is that well-known USA winger Megan Rapinoe was clustered into the "poor" passing group. However, looking at her 2023 somewhat poor performance in the tournament justifies her placement. Feel free to look at our presentation for more results and the rest of our analysis!
