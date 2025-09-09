@@ -1,5 +1,5 @@
 ---
-title: "Cleveland Cavaliers Hackathon 2024"
+title: 'Cleveland Cavaliers Hackathon 2024'
 description: "Clustering Cavaliers' fans based on their retail and food and beverage spending"
 date: October 2024
 resources: "."
