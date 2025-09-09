@@ -3,7 +3,7 @@ project:
   resources: assets
 
 website:
-  title: "Luke Snavely"
+  title: 'Luke Snavely'
   navbar:
     background: "#14234b"
     left:
