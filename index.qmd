@@ -2,7 +2,7 @@
 title: "Luke Snavely"
 about:
   template: jolla
-  image: assets/headshot.png
+  image: assets/headshot.jpg
   image-shape: round
   links:
     - icon: envelope
@@ -16,7 +16,7 @@ about:
       href: https://www.linkedin.com/in/lukesnavely/
     - icon: file-person
       text: Resume
-      href: assets/LukeSnavelyResume.pdf
+      href: assets/Luke Snavely Resume.pdf
 ---
 
 Hello! My name is Luke Snavely, and I am a Presidential Scholar at Robert Morris University (RMU) pursuing a B.S. in Statistics and Data Science, an M.S. in Data Science, and a minor in Data Analytics, with graduation expected in Spring 2027.
