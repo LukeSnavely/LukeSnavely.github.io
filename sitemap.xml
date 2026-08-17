@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://LukeSnavely.github.io/projects.html</loc>
-    <lastmod>2025-09-09T02:33:24.694Z</lastmod>
+    <loc>https://LukeSnavely.github.io/projects/CMSACamp_Capstone/capstone.html</loc>
+    <lastmod>2026-08-17T17:57:00.050Z</lastmod>
   </url>
   <url>
     <loc>https://LukeSnavely.github.io/projects/OhioState2025/OhioState2025.html</loc>
-    <lastmod>2025-09-09T02:33:24.757Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LukeSnavely.github.io/projects/CMSACamp_Capstone/capstone.html</loc>
-    <lastmod>2025-09-09T02:33:24.695Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LukeSnavely.github.io/projects/CMSACamp_EDA/eda.html</loc>
-    <lastmod>2025-09-09T02:33:24.709Z</lastmod>
-  </url>
-  <url>
-    <loc>https://LukeSnavely.github.io/projects/CavsHackathon_2024/CavsHackathon2024.html</loc>
-    <lastmod>2025-09-09T02:33:24.709Z</lastmod>
+    <lastmod>2026-08-17T17:57:00.114Z</lastmod>
   </url>
   <url>
     <loc>https://LukeSnavely.github.io/index.html</loc>
-    <lastmod>2025-09-09T02:33:24.694Z</lastmod>
+    <lastmod>2026-08-17T17:57:00.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LukeSnavely.github.io/projects.html</loc>
+    <lastmod>2026-08-17T17:57:00.049Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LukeSnavely.github.io/projects/CavsHackathon_2024/CavsHackathon2024.html</loc>
+    <lastmod>2026-08-17T17:57:00.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://LukeSnavely.github.io/projects/CMSACamp_EDA/eda.html</loc>
+    <lastmod>2026-08-17T17:57:00.064Z</lastmod>
   </url>
 </urlset>
