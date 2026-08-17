@@ -4,7 +4,7 @@
     "href": "projects/CMSACamp_Capstone/capstone.html",
     "title": "Tracking the Intangible: Quantifying Effort in NFL Running Backs",
     "section": "",
-    "text": "The saying “giving your ‘100%’” is quite common, but what does that exactly mean? This project attempted to quantify this effort for NFL running backs. For each running back and utilizing Big Data Bowl tracking data, we graphed acceleration-speed (A-S) profiles. Using quantitative generalized additive modeling (QGAM), we found the highest percentiles of acceleration for each given speed. Effort is then defined by how often and close a player comes to this threshold. Analysis found that backup running backs typically were towards the top of the ranking, perhaps due to them making the most of their limited opportunities. For more results and information, our report is attached!"
+    "text": "The saying “giving your ‘100%’” is quite common, but what does that exactly mean? This project attempted to quantify this effort for NFL running backs. For each running back and utilizing Big Data Bowl tracking data, we graphed acceleration-speed (A-S) profiles. Using quantitative generalized additive modeling (QGAM), we found the highest percentiles of acceleration for each given speed. Effort is then defined by how often and close a player comes to this threshold. We also expanded this analysis to wide receivers. For more results and information, please watch the video attached!"
   },
   {
     "objectID": "projects/OhioState2025/OhioState2025.html",
@@ -32,7 +32,7 @@
     "href": "projects/CavsHackathon_2024/CavsHackathon2024.html",
     "title": "Cleveland Cavaliers Hackathon 2024",
     "section": "",
-    "text": "The Cleveland Cavaliers challenged us to segment Cavaliers’ fans based on their food, beverage, and retail purchases. Utilizing hierarchical clustering and silhouette scores, we determined three distinct fan subsets, one of which we clustered again to provide a deeper analysis. In presenting our findings through the use of data visualizations, we provided valuable insights for the Cavaliers’ Front Office. We were awarded first place for our submission. For our results and analysis, please download or view the attached PowerPoint.\nTEST!"
+    "text": "The Cleveland Cavaliers challenged us to segment Cavaliers’ fans based on their food, beverage, and retail purchases. Utilizing hierarchical clustering and silhouette scores, we determined three distinct fan subsets, one of which we clustered again to provide a deeper analysis. In presenting our findings through the use of data visualizations, we provided valuable insights for the Cavaliers’ Front Office. We were awarded first place for our submission. For our results and analysis, please download or view the attached PowerPoint."
   },
   {
     "objectID": "projects/CMSACamp_EDA/eda.html",
