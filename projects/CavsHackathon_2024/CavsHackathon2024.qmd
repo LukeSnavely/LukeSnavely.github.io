@@ -14,3 +14,5 @@ about:
 ---
 
 The Cleveland Cavaliers challenged us to segment Cavaliers' fans based on their food, beverage, and retail purchases. Utilizing hierarchical clustering and silhouette scores, we determined three distinct fan subsets, one of which we clustered again to provide a deeper analysis. In presenting our findings through the use of data visualizations, we provided valuable insights for the Cavaliers' Front Office. We were awarded first place for our submission. For our results and analysis, please download or view the attached PowerPoint.
+
+TEST!
