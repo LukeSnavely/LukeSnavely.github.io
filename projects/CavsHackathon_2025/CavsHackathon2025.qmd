@@ -1,0 +1,16 @@
+---
+title: 'Cleveland Cavaliers Hackathon 2025'
+description: "Generating ticket pacing curves to help decision making"
+date: October 2025
+resources: "."
+about: 
+  template: solana
+  image: cover.jpg
+  links:
+    - icon: easel3-fill
+      text: "Presentation"
+      href: projects/CavsHackathon_2025/RMUTeam_CavsHackathon2025_Presentation.pdf
+      target: blank
+---
+
+The Cleveland Cavaliers tasked us to project ticket sales for a game in their 25-26 NBA season based on historical sales. We created a dashboard through R Shiny to visualize this projection and help decision makers know if games were on pace with their ticket sales. Check out our full presentation!
