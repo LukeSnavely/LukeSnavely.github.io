@@ -1,0 +1,11 @@
+---
+title: 'Duquesne Light Company'
+description: "Computing Efficiency and Data Completeness for Planned Outages"
+date: August 2026
+resources: "."
+about: 
+  template: solana
+  image: cover.png
+---
+
+During the summer of 2026, I was an Operations Analytics intern at Duquesne Light Company (DLC), an electrical utilities company powering Pittsburgh and neighboring areas. My intern team and I conducted an analysis to evaluate the efficiency and data completeness of planned outages. Planned outages are known outages, where DLC calls customers and companies in advance. To measure efficiency, we calculated how well DLC estimates duration and the average difference between the planned start time vs. the actual start time. For data completeness, we examined how many missing values were in the outage management system. Some of these values include start and end times, crew assignments, and coordinates. We then presented our findings to some members of the executive leadership team.
